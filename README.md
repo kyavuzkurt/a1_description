@@ -4,4 +4,4 @@ This repository provides a ROS 2 implementation for the A1 robot, utilizing exis
 
 ## License
 
-This project is licensed under the BSD-3-Clause License.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
