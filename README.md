@@ -1,0 +1,7 @@
+# A1 Robot ROS 2 Implementation
+
+This repository provides a ROS 2 implementation for the A1 robot, utilizing existing models from [Unitree Robotics](https://github.com/unitreerobotics/unitree_ros).
+
+## License
+
+This project is licensed under the BSD-3-Clause License.
